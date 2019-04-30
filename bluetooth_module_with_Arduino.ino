@@ -2,8 +2,10 @@
 *Bluetooth with Arduino uno
 *This code describes how an LED can be operated with the help of bluetooth module using Arduino
 *
+*for more detail please visit:https://www.arduinounomagic.com/2019/02/bluetooth-module-with-arduino.html
+*
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 
 char BL_DATA=0; //Variable to store recievcd data
